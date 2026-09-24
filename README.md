@@ -17,16 +17,6 @@ Protótipo do meu portfólio pessoal, desenvolvido no Figma para a disciplina de
 - Tipografia sem serifa, com títulos grandes e textos de apoio em cinza.
 - Layout desktop de 1440 px.
 
-## Telas
-
-### Página inicial
-
-![Página inicial](telas/01-home.png)
-
-### Página do projeto (Por Perto)
-
-![Página do projeto Por Perto](telas/02-projeto-por-perto.png)
-
 ## Figma
 
-[Acessar o protótipo no Figma](COLE_AQUI_O_LINK_DO_FIGMA)
+[Acessar o protótipo no Figma](https://www.figma.com/design/1zypUwYrnWir9aHeY2vqM2/Sem-t%C3%ADtulo?node-id=0-1&t=jFdPCMeZq1IVLoo3-1)
